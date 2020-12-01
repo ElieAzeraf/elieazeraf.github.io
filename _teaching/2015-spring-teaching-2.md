@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Introduction à la Statisitique"
 collection: teaching
-type: "Workshop"
+type: "Chargé de TP"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "ENSAE Paris"
+date: 2020
+location: "Paris, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Cours de niveau L3.
 
 Heading 1
 ======

@@ -10,5 +10,5 @@ redirect_from:
 
 I am a PhD candidate in Data Science/Statistics/Machine Learning at Telecom SudParis, Institut Polytechnique de Paris.
 
-I am interested in Markoc Chain and Neural Networks for Natural Language Processing.
+I am interested in Markov Chain and Neural Networks for Natural Language Processing.
 

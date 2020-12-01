@@ -1,6 +1,3 @@
-ENSAE
-======
-
 ---
 title: "Introduction aux processus"
 collection: teaching
@@ -11,6 +8,9 @@ description: "Cours de niveau M1"
 date: 2019
 location: "Paris, France"
 ---
+
+ENSAE
+======
 
 Heading 2
 ======

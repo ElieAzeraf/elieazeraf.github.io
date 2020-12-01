@@ -1,15 +1,16 @@
+ENSAE
+======
+
 ---
 title: "Introduction aux processus"
 collection: teaching
 type: "Chargé de TP"
 permalink: /teaching
 venue: "ENSAE Paris"
-date: 2014-01-01
-location: "City, Country"
+description: "Cours de niveau M1"
+date: 2019
+location: "Paris, France"
 ---
-
-ENSAE
-======
 
 Heading 2
 ======

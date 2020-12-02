@@ -1,9 +1,9 @@
 ---
-title: "Test"
+title: "Introduction à la Statistique"
 collection: teaching
-type: "M1 Course"
+type: "L3 Course"
 permalink: /teaching/2015-spring-teaching-2
 venue: "ENSAE"
-date: 2014-01-01
+date: 2019-01-01
 location: "City, Country"
 ---

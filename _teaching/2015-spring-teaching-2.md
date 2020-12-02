@@ -1,20 +1,9 @@
 ---
-title: "Introduction à la Statisitique"
+title: "Test"
 collection: teaching
-type: "Chargé de TP"
-permalink: /teaching/2015-spring-teaching-1
-venue: "ENSAE Paris"
-date: 2020-01-01
-location: "Paris, France"
+type: "M1 Course"
+permalink: /teaching/2015-spring-teaching-2
+venue: "ENSAE"
+date: 2014-01-01
+location: "City, Country"
 ---
-
-Cours de niveau L3.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======

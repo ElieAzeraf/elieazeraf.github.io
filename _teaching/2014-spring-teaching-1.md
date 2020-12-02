@@ -4,7 +4,7 @@ collection: teaching
 type: "Chargé de TP"
 permalink: /teaching
 venue: "ENSAE Paris"
-date: 2019
+date: 2019-01-01
 location: "Paris, France"
 ---
 

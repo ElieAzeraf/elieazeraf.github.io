@@ -11,3 +11,6 @@ location: "Paris, France"
 M1 Course at ENSAE Paris, one of the top statistic school in France, as a practical work supervisor. <br />
 Course [link](https://www.ensae.fr/en/courses/introduction-to-stochastic-processes/). <br />
 Main notions:
+* Markov Chains
+* Stopping time
+* Martingales

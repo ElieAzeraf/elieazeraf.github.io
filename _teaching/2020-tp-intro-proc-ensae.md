@@ -8,4 +8,6 @@ date: 2020-01-01
 location: "Paris, France"
 ---
 
-Course [link](https://www.ensae.fr/en/courses/introduction-to-stochastic-processes/).
+M1 Course at ENSAE Paris, one of the top statistic school in France, as a practical work supervisor. <br />
+Course [link](https://www.ensae.fr/en/courses/introduction-to-stochastic-processes/). <br />
+Main notions:

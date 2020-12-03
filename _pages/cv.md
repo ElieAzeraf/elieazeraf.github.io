@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* M.S. in Statistics and Modelization, Telecom SudParis, Université Paris-Saclay then Institut Polytechnique de Paris, 2018
-* M.S. in Data Science and Machine Learning, ENSAE Paris, Université Paris-Saclay then Institut Polytechnique de Paris, 2018
-* Ph.D in Statistics, Ecole Doctorale de Mathématiques Hadamard, Institut Polytechnique de Paris / Université Paris-Saclay, 2022 (expected)
+* M.S. in Statistics and Modelization, Telecom SudParis, 2018
+* M.S. in Data Science and Machine Learning, ENSAE Paris, 2018
+* Ph.D in Statistics, Ecole Doctorale de Mathématiques Hadamard, 2022 (expected)
 
 Work experience
 ======

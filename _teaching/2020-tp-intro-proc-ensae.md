@@ -4,8 +4,8 @@ collection: teaching
 type: "Chargé de TP"
 permalink: /teaching
 venue: "ENSAE"
-date: 2019-01-01
+date: 2020-01-01
 location: "Paris, France"
 ---
 
-Cours de niveau M1.
+Course [link](https://www.ensae.fr/en/courses/introduction-to-stochastic-processes/).

@@ -9,4 +9,5 @@ location: "Paris, France"
 ---
 
 L3 Course for the second semester at ENSAE Paris, one of the top statistic school in France, as a practical work supervisor.
+
 Course [link](https://www.ensae.fr/en/courses/introduction-to-statistics/).

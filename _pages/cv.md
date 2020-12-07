@@ -13,7 +13,7 @@ Education
 ======
 * M.S. in Statistics and Modelization, Telecom SudParis, 2018
 * M.S. in Data Science and Machine Learning, ENSAE Paris, 2018
-* Ph.D in Statistics, Ecole Doctorale de Mathématiques Hadamard, 2022 (expected)
+* Ph.D in Statistics, Institut Polytechnique de Paris, 2022 (expected)
 
 Work experience
 ======
@@ -38,9 +38,7 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Test
   
 Teaching
 ======

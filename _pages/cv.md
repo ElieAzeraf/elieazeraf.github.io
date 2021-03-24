@@ -51,3 +51,6 @@ Telecom Paris
 
 Telecom SudParis
 - Introduction à la Statistique, année 2019/2020
+
+ENSTA Paris
+- Modèles de Markov, année 2019/2020 et 2020/2021

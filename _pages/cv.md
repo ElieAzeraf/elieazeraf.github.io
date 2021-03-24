@@ -42,6 +42,12 @@ Test
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+ENSAE Paris
+- Introduction à la Statistique, année 2019/2020 et 2020/2021
+- Introduction aux process, année 2020/2021
+
+Telecom Paris
+- Probailistic Models and Machine Learning, année 2020/2021
+
+Telecom SudParis
+- Introduction à la Statistique, année 2019/2020

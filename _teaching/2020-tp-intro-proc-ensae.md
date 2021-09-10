@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Stochastic Processes"
 collection: teaching
-type: "Teaching assistant"
+type: "Teaching assistant, M1 course"
 permalink: /teaching
 venue: "ENSAE Paris, Institut Polytechnique de Paris"
 date: 2020-01-01

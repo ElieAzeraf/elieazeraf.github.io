@@ -1,7 +1,7 @@
 ---
-title: "Introduction aux processus"
+title: "Introduction to Stochastic Processes"
 collection: teaching
-type: "Chargé de TP"
+type: "Teaching assistant"
 permalink: /teaching
 venue: "ENSAE Paris, Institut Polytechnique de Paris"
 date: 2020-01-01

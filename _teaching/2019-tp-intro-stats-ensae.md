@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Statistics"
 collection: teaching
-type: "L3 Course"
+type: "Teaching assitant, L3 Course"
 permalink: /teaching/2015-spring-teaching-2
 venue: "ENSAE Paris, Institut Polytechnique de Paris"
 date: 2019-01-01

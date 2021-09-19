@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Statistics, Hadamard Doctoral School of Mathematics, 2022 (expected) <br />
+* Ph.D. in Statistics and Machine Learning, Hadamard Doctoral School of Mathematics, 2022 (expected) <br />
 <em> Doctoral school of Paris-Saclay University (1st in Mathematics in the Shanghai Ranking), Institut Polytechnique de Paris (31st in Mathematics), and PSL University (13th in Mathematics). <br /> 
-My thesis is about Probabilistic Models and Neural Networks applied to Natural Language Processing tasks.</em>
+My thesis is about Probabilistic Models and Neural Networks, applied to Natural Language Processing tasks.</em>
 
 * M.S. in Data Science and Machine Learning, ENSAE Paris, 2018
 * M.S. in Statistics and Modelization, Telecom SudParis, 2018

@@ -29,3 +29,8 @@ In progress...
 Teaching
 ======
 In progress..
+
+Distinctions
+======
+* Prix du meilleur doctorat du laboratoire SAMOVAR 2020, [(lien vers la page de la journée des doctorants)](https://samovar.telecom-sudparis.eu/spip.php?article1366)
+* Prix du meilleur stage de fin d'étude de l'ENSAE Paris, promotion 2018, [(lien vers la page Facebook de l'ENSAE Paris de la remise de prix)](https://www.google.fr/)

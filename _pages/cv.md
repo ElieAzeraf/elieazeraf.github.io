@@ -32,5 +32,5 @@ In progress..
 
 Distinctions
 ======
-* Prix du meilleur doctorat du laboratoire SAMOVAR 2020, [lien vers la page de la journée des doctorants](https://samovar.telecom-sudparis.eu/spip.php?article1366)
-* Prix du meilleur stage de fin d'étude de l'ENSAE Paris, promotion 2018, [lien vers la page Facebook de l'ENSAE Paris de la remise de prix](https://www.facebook.com/ENSAE.IPPARIS/photos/nos-3-lauréats-au-prix-du-meilleur-rapport-de-stage/585541865231154)
+* Prize for the best Ph.D. student of the SAMOVAR lab 2020, [link to the "Ph.D. Candidate day" of the SAMOVAR lab](https://samovar.telecom-sudparis.eu/spip.php?article1366)
+* Prize for the best internship at ENSAE Paris 2018, [link to the facebook page of the award ceremony](https://www.facebook.com/ENSAE.IPPARIS/photos/nos-3-lauréats-au-prix-du-meilleur-rapport-de-stage/585541865231154)

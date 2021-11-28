@@ -11,4 +11,4 @@ Course [link](https://www.ensae.fr/en/courses/introduction-to-statistics/).
 
 ### Details
 
-Teaching Assistant during 2019/2020 and 2020/2021 scolar years.
+Teaching Assistant during 2019/2020 and 2020/2021 scholar years.

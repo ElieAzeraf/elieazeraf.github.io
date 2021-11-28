@@ -13,7 +13,7 @@ redirect_from:
   - Main advisors: Wojciech Pieczynski and Emmanuel Monfrini
   - Title: Generative Probabilistic Models: Discriminative classifiers and Neural Networks
   - Thesis at Hadamard Doctoral School of Mathematics, common to Paris-Saclay University (ranked \#1 in Mathematics in the Shanghai Ranking) and Institut Polytechnique de Paris (ranked \#31), at the SAMOVAR lab of Telecom SudParis
-	- Funding: 3 years grant from IBM
+  - Funding: 3 years grant from IBM
 
 
 - M.Sc. in Data Science and Machine Learning, ENSAE Paris, 2016 - 2018

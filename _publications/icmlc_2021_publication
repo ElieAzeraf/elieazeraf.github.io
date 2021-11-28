@@ -1,0 +1,10 @@
+---
+title: "Using the Naive Bayes as a discriminative classifier"
+collection: publications
+permalink: /publication/icmlc_2021_publication
+excerpt: 'This paper shows how to define the classifier induced from the Naive Bayes as a discriminative classifier and the comparison between the Naive Bayes and the Logistic Regression.'
+date: 2021-01-01
+venue: '13th International Conference on Machine Learning and Computing (ICMLC)'
+paperurl: 'https://arxiv.org/abs/2012.13572'
+citation: 'Elie Azeraf, Emmanuel Monfrini, and Wojciech Pieczynski. 2021. Using the Naive Bayes as a discriminative model. In 2021 13th International Conference on Machine Learning and Computing (ICMLC 2021). Association for Computing Machinery, New York, NY, USA, 106–110. DOI:https://doi.org/10.1145/3457682.3457697'
+---

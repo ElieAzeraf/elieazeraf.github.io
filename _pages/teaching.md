@@ -5,6 +5,12 @@ permalink: /teaching/
 author_profile: true
 ---
 
+## Probabilistic Models and Machine Learning
+
+- Telecom Paris, M2 course, 2020 and 2021
+- Head teacher (2 x 12h)
+- Course [link](https://synapses.telecom-paris.fr/catalogue/2019-2020/ue/12263/IA304-probabilistic-models-and-machine-learning).
+
 ## Introduction to stochastic process
 
 - ENSAE Paris, M1 course, 2020

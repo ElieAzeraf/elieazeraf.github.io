@@ -31,3 +31,15 @@ author_profile: true
 - Teaching assistant (2 x 3h)
 - Course [link](https://synapses.ensta-paris.fr/catalogue/2020-2021/ue/5102/MA202-modeles-de-markov).
 
+
+## Statistics and Data Analysis
+
+- Telecom SudParis, L3 course, 2019
+- Teaching assistant (6h)
+- Course [link](https://enseignements.telecom-sudparis.eu/fiche.php?m=21054&l=en).
+
+
+## End-of-studies project supervisor
+
+- Telecom SudParis, M2 course, 2020
+

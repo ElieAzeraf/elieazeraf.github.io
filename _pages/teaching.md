@@ -32,6 +32,13 @@ author_profile: true
 - Course [link](https://synapses.ensta-paris.fr/catalogue/2020-2021/ue/5102/MA202-modeles-de-markov).
 
 
+## Stochastic Process
+
+- Telecom SudParis, L3 course, 2019
+- Teaching assistant (6h)
+- Course [link](https://enseignements.telecom-sudparis.eu/fiche.php?m=5762&l=en).
+
+
 ## Statistics and Data Analysis
 
 - Telecom SudParis, L3 course, 2019

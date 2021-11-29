@@ -49,4 +49,5 @@ author_profile: true
 ## End-of-studies project supervisor
 
 - Telecom SudParis, M2 course, 2020
+- Main supervisor (6h)
 

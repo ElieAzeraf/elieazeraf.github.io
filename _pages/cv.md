@@ -18,8 +18,10 @@ redirect_from:
 
 - M.Sc. in Data Science and Machine Learning, ENSAE Paris, 2016 - 2018
   - ENSAE Paris is considered as one of the top 3 engineering school in Statistics in France
+  - School link
 
 - M.Sc. in Statistics, Telecom SudParis, 2014 - 2018
+  - School link
 
 - Preparatory School MPSI-PSI*, Lycée Thiers Marseille, 2012 - 2014
 

@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+## Conferences
+
 - **E. Azeraf**, E. Monfrini, and W. Pieczynski, "Using the Naive Bayes as a discriminative model," *13th International Conference on Machine Learning and Computing (ICMLC 2021)*, Association for Computing Machinery, 2021, pp. 106–110
 - **E. Azeraf**, E. Monfrini, E. Vignon, and W. Pieczynski, "Highly Fast Text Segmentation With Pairwise Markov Chains," *2020 6th IEEE Congress on Information Science and Technology (CiSt)*, IEEE, 2020, pp. 361-366}
 - **E. Azeraf**, E. Monfrini, E. Vignon, and W. Pieczynski,  "Introducing the Hidden Neural Markov Chain Framework," *13th International Conference on Agents and Artificial Intelligence (ICAART)*, 2021, pp. 1013-1020

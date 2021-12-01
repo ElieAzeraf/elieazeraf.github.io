@@ -61,3 +61,11 @@ redirect_from:
 - **E. Azeraf**, E. Monfrini, and W. Pieczynski, "Deriving discriminative classifiers from generative models," submitted at Transactions for Pattern Analysis and Machine Intelligence
 - **E. Azeraf**, E. Monfrini, and W. Pieczynski, "Improving usual Naive Bayes classifier performances with Neural Naive Bayes based models," submitted at ICPRAM 2022
 - **E. Azeraf**, E. Monfrini, and W. Pieczynski, "On equivalence between linear-chain conditional random fields and hidden Markov chains," submitted at ICAART 2022
+
+
+## Awards
+
+- Best Ph.D. student 2020 award of Telecom SudParis, winning an iPhone 11
+- Best internship 2018 award of ENSAE Paris, winning a reward of 1000€
+
+

@@ -34,20 +34,20 @@ author_profile: true
 
 ## Stochastic Process
 
-- Telecom SudParis, L3 course, 2019
-- Teaching assistant (6h)
+- Telecom SudParis, L3 course, 2019/2020 and 2020/2021
+- Teaching assistant (6h + 3h)
 - Course [link](https://enseignements.telecom-sudparis.eu/fiche.php?m=5762&l=en).
 
 
 ## Statistics and Data Analysis
 
-- Telecom SudParis, L3 course, 2019
-- Teaching assistant (6h)
+- Telecom SudParis, L3 course, 2019/2020
+- Teaching assistant (4h)
 - Course [link](https://enseignements.telecom-sudparis.eu/fiche.php?m=21054&l=en).
 
 
 ## End-of-studies project supervisor
 
-- Telecom SudParis, M2 course, 2020
+- Telecom SudParis, M2 course, 2019/2020
 - Main supervisor (6h)
 

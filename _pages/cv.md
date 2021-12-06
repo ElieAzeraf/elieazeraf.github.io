@@ -32,7 +32,7 @@ redirect_from:
 - Ph.D. Student, IBM and Telecom SudParis, 2019 - Current
   - About the ability to any generative probabilistic model to define a discriminative classifier, parametrized with neural networks, with application to Natural Language Processing. These thesis allows to develop neural models based on Probabilistic Graphical Models, combining great modeling potential, performances, and easy to serve.
   - Some research projects:
-    - Developing extensions of the classifier induced from the Naive Bayes for Text Classification and Sentiment Analysis, dividing the error by $4.5$ while keeping the same complexity.
+    - Developing extensions of the classifier induced from the Naive Bayes for Text Classification and Sentiment Analysis, dividing the error by 4.5 while keeping the same complexity.
     - Developing new algorithms for Hidden Markov Chain, allowing to consider complex features and achieving relevant results for Part-Of-Speech Tagging, Named-Entity-Recognition, state-of-the-art results for Chunking, and being easy to serve.
     - Showing the equivalence between the linear-chain Conditional Random Field and the Hidden Markov Chain.
   - Tech: Python, PyTorch, Transfomers, Flair

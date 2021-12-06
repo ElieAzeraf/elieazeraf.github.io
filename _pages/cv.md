@@ -72,7 +72,7 @@ redirect_from:
 
 ## Miscellaneous
 
-- **Languages:** English (fluent), French (native)}
+- **Languages:** English (fluent), French (native)
 - **Teaching:** Head Teacher of *Probabilistic Models and Machine Larning*, M2 course at Telecom Paris, and Assistant Teacher of many courses at ENSAE Paris, ENSTA Paris, and Telecom SudParis (L3, M1 and M2 levels), always highly appreciated by students. All these schools are among the top engineering schools in France.
 - **Interest:** Passionate about comics, especially DC and Marvel; *The Dark Knight Returns* by F. Miller, *Spider-Man Blue* by J. Loeb and T. Sale, and *Justice League: Forever Evil* are among my favorite works.
 - **Cloud certifications:** Preparing Azure cloud for Machine Learning certifications

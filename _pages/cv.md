@@ -12,7 +12,7 @@ redirect_from:
 - Ph.D. in Applied Mathematics, Statistics, and Machine Learning, Paris, 2019 - Current
   - Main advisors: Wojciech Pieczynski and Emmanuel Monfrini
   - Title: Generative Probabilistic Models: Discriminative classifiers and Neural Networks
-  - Thesis at Hadamard Doctoral School of Mathematics, common to Paris-Saclay University (ranked \#1 in Mathematics in the Shanghai Ranking) and Institut Polytechnique de Paris (ranked \#31), at the SAMOVAR lab of Telecom SudParis
+  - Thesis at Hadamard Doctoral School of Mathematics, common to Paris-Saclay University (ranked \#1 in Mathematics in the [Shanghai Ranking](https://www.shanghairanking.com/rankings/gras/2021/RS0101) ) and Institut Polytechnique de Paris (ranked \#31), at the SAMOVAR lab of Telecom SudParis
   - Funding: 3 years grant from IBM
 
 

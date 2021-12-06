@@ -66,7 +66,7 @@ redirect_from:
 
 ## Awards
 
-- Best Ph.D. student 2020 award of Telecom SudParis, winning an iPhone 11
+- Best Ph.D. student 2020 award of Telecom SudParis, winning an iPhone 11, [link](https://samovar.telecom-sudparis.eu/spip.php?article1366)
 - Best internship 2018 award of ENSAE Paris, winning a reward of 1000€
 
 

@@ -14,6 +14,7 @@ redirect_from:
   - Title: *Generative Probabilistic Models: Discriminative classifiers and Neural Networks*
   - Thesis at Hadamard Doctoral School of Mathematics, common to Paris-Saclay University (ranked \#1 in Mathematics in the [Shanghai Ranking](https://www.shanghairanking.com/rankings/gras/2021/RS0101)) and Institut Polytechnique de Paris (ranked \#31), at the SAMOVAR lab of Telecom SudParis
   - Funding: 3 years grant from IBM
+  - School [link](https://www.universite-paris-saclay.fr/en/doctoral-schools/hadamard-doctoral-school-mathematics)
 
 
 - M.Sc. in Data Science and Machine Learning, ENSAE Paris, 2016 - 2018

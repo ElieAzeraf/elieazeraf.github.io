@@ -77,6 +77,6 @@ redirect_from:
 - **Interest:** Passionate about comics, especially DC and Marvel; *The Dark Knight Returns* by F. Miller, *Spider-Man Blue* by J. Loeb and T. Sale, and *Justice League: Forever Evil* are among my favorite works.
 - **Cloud certifications:** Preparing Azure cloud for Machine Learning certifications
 - **References:**
-  - Emmannuel Monfrini, Full Professor at Telecom SudParis, emmanuel.monfrini@telecom-sudparis.eu
-  - Emmanuel Vignon, ex-Watson Practice Leader at IBM France, CEO of Sicara, emmanuelv@sicara.com
-  - Vincent Giraud, Senior Managing Consultant at IBM France, vincent.giraud2@ibm.com
+  - Emmannuel Monfrini, Full Professor at Telecom SudParis
+  - Emmanuel Vignon, ex-Watson Practice Leader at IBM France, CEO of Sicara
+  - Vincent Giraud, Senior Managing Consultant at IBM France

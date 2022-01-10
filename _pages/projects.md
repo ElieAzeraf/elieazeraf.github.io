@@ -1,10 +1,10 @@
 ---
+layout: archive
+title: "Projects"
 permalink: /projects/
-title: "Project page"
 author_profile: true
-redirect_from: 
-  - "/projects/"
-  - "/projects.html"
+redirect_from:
+  - /projects
 ---
 
 *Work in progress...*

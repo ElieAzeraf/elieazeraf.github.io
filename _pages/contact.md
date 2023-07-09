@@ -1,11 +1,8 @@
 ---
-permalink: /
+layout: archive
 title: "Contact"
-excerpt: "Contact"
+permalink: /contact/
 author_profile: true
-redirect_from: 
-  - /contact/
-  - /contact.html
 ---
 
 *In progress..*

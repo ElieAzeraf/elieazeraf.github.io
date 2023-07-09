@@ -1,11 +1,8 @@
 ---
-permalink: /
+layout: archive
 title: "Miscellaneous"
-excerpt: "Miscellaneous"
+permalink: /miscellaneous/
 author_profile: true
-redirect_from: 
-  - /miscellaneous/
-  - /miscellaneous.html
 ---
 
 *In progress..*

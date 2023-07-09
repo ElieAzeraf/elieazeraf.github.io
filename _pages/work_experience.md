@@ -1,11 +1,8 @@
 ---
-permalink: /
+layout: archive
 title: "Work Experience"
-excerpt: "Work Experience"
+permalink: /work_experience/
 author_profile: true
-redirect_from: 
-  - /work_experience/
-  - /work_experience.html
 ---
 
 *In progress..*

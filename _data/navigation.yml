@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Work Experience"
-    url: /work_experience/
+  - title: "About me"
+    url: /about/
 
     - title: "Education"
     url: /education/

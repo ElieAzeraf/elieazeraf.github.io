@@ -80,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Elie Azeraf"
+  name             : "Elie Azeraf, PhD"
   avatar           : "azeraf_photo_cv.jpg"
-  bio              : "Data Science PhD Candidate"
+  bio              : "PhD in Statistics and Machine Learning"
   location         : "IBM, France"
   location         : "Telecom SudParis"
-  employer         : "IBM GBS France"
+  employer         : "Capgemini"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=tSOkvLMAAAAJ&hl=fr"
   email            :

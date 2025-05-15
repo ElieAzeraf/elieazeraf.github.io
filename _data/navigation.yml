@@ -1,22 +1,16 @@
 # main links links
 main:
+    - title: "Azeraf Financial Consulting"
+    url: /work_experience/
+
   - title: "Work Experience"
     url: /work_experience/
 
   - title: "Education"
-    url: /education/    
-
-  - title: "Projects"
-    url: /projects/    
+    url: /education/      
     
   - title: "Publications"
     url: /publications/
-        
-  - title: "Teaching"
-    url: /teaching/
-    
-  - title: "Miscellaneous"
-    url: /miscellaneous/
     
   - title: "Contact"
     url: /contact/

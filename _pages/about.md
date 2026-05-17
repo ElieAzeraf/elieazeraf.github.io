@@ -8,9 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I hold two MSc degrees — one in Financial Engineering and one in Statistics — as well as a Ph.D. in Statistics.
+For over eight years, I have worked at the intersection of data science and industry impact. My career includes roles as an AI expert at global leaders such as IBM and Capgemini, where I designed and deployed machine learning and statistical models to address high-complexity challenges across sectors. This experience sharpened my ability to translate rigorous quantitative research into solutions that deliver measurable business value.
 
-Over the past 7 years, I've worked as an AI expert at IBM and Capgemini, applying machine learning and statistical modeling to solve complex problems.
+Driven by a passion for financial markets and evidence-based decision making, I founded [Azeraf Financial Consulting](https://www.azeraf-financial-consulting.com/). Through my consulting practice, I help both individuals and professionals construct tailored investment portfolios that align with their unique risk profiles, financial goals, and market perspectives. Whether clients are seeking conservative wealth preservation or dynamic growth strategies, I combine modern portfolio theory, statistical rigor, and practical insights to support their long-term success.
 
-Today, I'm the founder of [Azeraf Financial Consulting](https://www.azeraf-financial-consulting.com/), where I help individuals and professionals build optimized stock portfolios based on their risk profiles and investment goals.
-
+I also maintain an active interest in research and innovation, with a particular focus on volatility modeling, optimization algorithms, and the use of machine learning in finance. My mission is to bridge the gap between academic excellence and real-world investment performance — empowering others to make smarter, data-driven decisions in an increasingly complex financial landscape.

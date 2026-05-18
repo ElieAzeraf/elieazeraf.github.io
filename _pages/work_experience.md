@@ -7,8 +7,6 @@ author_profile: true
 
 *In progress..*
 
-# Work Experience
-
 ### Senior Data Scientist - Consultant
 **Capgemini Engineering Research & Development** | *Aix-en-Provence* | *October 2022 - Present* 
 * Led scientific AI initiatives for real-time pollutant detection and air quality forecasting, significantly enhancing micro-sensor reliability through applied machine learning. 
